@@ -1,0 +1,12 @@
+{
+  "name": "html-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Sven Peeters <sven@gridsnit.be>",
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "fastclick": "~1.0.3",
+    "bourbon": "~4.0.2"
+  },
+  "devDependencies": {}
+}

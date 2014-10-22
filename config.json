@@ -1,0 +1,32 @@
+{
+    "path": {
+        "assets": {
+            "root": "src/assets/",
+            "css": "src/assets/css",
+            "fonts": "src/assets/fonts",
+            "img": "src/assets/img",
+            "js": "src/assets/js"
+        },
+        "templates": "src/templates",
+        "export": {
+            "root": "build/",
+            "html": "build/html",
+            "css": "build/css",
+            "fonts": "build/fonts",
+            "img": "build/img",
+            "js": "build/js"
+        }
+    },
+    "server": {
+        "local": "localhost",
+        "external": null,
+        "port": null
+    },
+    "vendors": {
+        "css": {},
+        "js": {
+            "jquery": "bower_components/jquery/dist/jquery.js",
+            "fastclick": "bower_components/fastclick/lib/fastclick.js"
+        }
+    }
+}
